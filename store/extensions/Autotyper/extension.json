@@ -1,6 +1,6 @@
 {
   "title": "Autotyper",
-  "description": "Automatically types a stored message by simply typing '!' in chat.",
+  "description": "Automatically sends a stored message in chat. To store your message, type ':setmsg {message}', and to send it, simply by saying '!'.",
   "authors": [
     {
       "name": "Nanobyte",
